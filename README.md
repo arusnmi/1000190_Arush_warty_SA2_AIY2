@@ -334,5 +334,5 @@ Burnout-Bound A High Achiever, Lone Learner.
 Included in the repo
 
 ### Prototype link
-
+[Prototype link](https://buzz-plant-58044564.figma.site)
 
