@@ -205,3 +205,127 @@ Parental and Teacher support.
 
 ### Empthy map
 Found in github repo
+
+
+### SCAMPER analysis on exsiting fetures
+
+S -- Substitute
+
+What have we to replace so that we can do less harm but still maintain utility?
+
+Alternate interminable scrolling - conscious sessions.
+Substitute endless feeds with time-constrained, purposeful sessions (e.g. "Study 25 minutes" or "Relax 15 minutes).
+
+Wireless replacement screen use - low-stimulation modes
+Switch on the grayscale mode, audio-only mode, text mode to lower the rate of sleep impairment on bright and interactive interfaces at night.
+
+Replace fixed notifications - check-in batches.
+Notifications are not delivered immediately, but in groups at predetermined times, which reduces stress and distraction levels.
+
+Persona Alignment:
+Harried-Out Overachiever, Late-Night Gamer, Digitally Unaware Study.
+
+C -- Combine
+
+What are some of the things that can be bundled to give value?
+
+Screen-time tracking + mental health reflection.
+Cause-effect patterns are presented with daily screen information combined with the simple mood check-ins (How drained do you feel today?).
+
+Sum productivity+ recovery.
+Guided off-screen breaks (stretching, breathing, journaling) are associated with focus timers.
+
+Integrate social responsibility + confidentiality.
+Involuntary ranking and shaming are removed as students can participate in optional accountability circles (friends or classmates).
+
+Persona Alignment:
+Remote Student, Social-Media-Addicted Learner.
+
+A -- Adapt
+
+What is it possible to borrow ideas?
+
+Adapt Fitness recovery models - cognitive recovery.
+Implement a system of mental rest days just as there are rest days in the workout, and discourage cognitive overload.
+
+Customize sleep-tracking knowledge - digital behavior coaching.
+Simple visual stories are used to point out the patterns such as "Late-night scrolling - poor sleep - low focus" in the app.
+
+Modify gameplay - habit forming (not addictive)
+Rewards are achieved through streaks (taking breaks, sleeping earlier) and not the amount of time spent in the app.
+
+Persona Alignment:
+Another Nighttime gamer, burnt out high school graduate.
+
+M -- Modify (Magnify / Minimize)
+
+What may be stressed or minimized?
+
+Magnify
+
+User awareness over control
+Focus on getting to know oneself rather than making definite boundaries.
+
+Micro-interventions
+Short bursts on-screen such as 30 seconds prompts (You have been staring at the screen 90 minutes) can be used instead of spending a long time on a lecture.
+
+Minimize
+
+Pictorial noise and dopamine stimulators.
+Minimal design, rather dull colors, no autoplay, no endless feed within the app.
+
+Data overload
+Exhibit insights in graphical form and sparsely to avoid making the user feel judged and overwhelmed.
+
+Persona Alignment:
+Remote Learner, Digitally Unaware Student.
+
+P -- Put to Another Use
+
+What are the new uses that the app can be put to?
+
+Burnout early warning system.
+Identify trends of over fatigue and warn users in a subtle way until burnout kicks in.
+
+Digital literacy educational tool.
+Educate learners about the impact of some digital behaviors on mood, attention, and sleep.
+
+School and counselor support tool (opt-in).
+Institutions can learn about student overload using aggregate anonymized trends.
+
+Persona Alignment:
+Every image, particularly high-school students.
+
+E -- Eliminate
+
+What should be completely eliminated?
+
+Eliminate guilt-driven communication.
+None of the shame language such as: You failed, You wasted time.
+
+Eliminate design addictive patterns.
+None of the streak pressure which makes one anxious, no public boards, no fear reminders.
+
+Eliminate impractical expectations of productivity.
+Do not instill a culture of always chasing the best or hustle culture.
+
+Persona Alignment:
+Student addicted to social media, High Achiever at the Cost.
+
+R -- Reverse / Rearrange
+
+What will occur when assumptions are reversed?
+
+Invert the objective: productivity second, reverse first.
+The application values sleep quality and psychological rest over academic performance.
+
+Rearrange user flow
+Screen-time stats are preceded by mood and energy check-ins, restoring success to well-being.
+
+Reverse control
+Rather than the limits being set by the app, users create their own, enhancing freedom.
+
+Persona Alignment:
+Burnout-Bound A High Achiever, Lone Learner.
+
+
