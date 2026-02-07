@@ -339,4 +339,6 @@ Included in the repo
 ### Helpful extensions
 one technoligy tha would help here is neroulink, as it can moniter the brain's activities and report back tot he app , to then send back actual infromation to the user making the info more personalized
 
+### Testing log 
 
+[Link to testing videos](https://drive.google.com/drive/folders/1FAbvD7KREDVg7P48K9jk07AlLeB8Yss8?usp=sharing)
