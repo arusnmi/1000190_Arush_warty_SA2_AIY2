@@ -336,3 +336,7 @@ Included in the repo
 ### Prototype link
 [Prototype link](https://buzz-plant-58044564.figma.site)
 
+### Helpful extensions
+one technoligy tha would help here is neroulink, as it can moniter the brain's activities and report back tot he app , to then send back actual infromation to the user making the info more personalized
+
+
