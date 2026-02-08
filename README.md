@@ -152,6 +152,13 @@ When prompts/meditations become monotonous, the users will be bored very easily.
 
 Absence of actual personalization:
 Not tags, but adaptive sequencing - what did the user react to? how did mood change? what should come next?
+
+### Behavior training methords
+
+* Nudjing: when you give reminders for doing tasks in the day to slowly take bad habbits out of you. Proven example: duolingo, uses nudging to contniously get you to learn the launguage.
+* positive reinforcement: when you aare rewarded for doing somthing good. proven example: videogame progression, gives you ingame rewards to progress in game.
+* Habit loop: repeating an action to stop another action. Proven example: Figit toys, repeating the same action everyday with those toys helps taking out bad habbits such as smoking. (Smith)
+
 ### User personas
 
 Persona 1: The Burnt-Out High Achiever.
@@ -489,6 +496,8 @@ one technoligy tha would help here is neroulink, as it can moniter the brain's a
 
 ### Bibliography
 
-Chetan Khadka. “Internet Addiction and Its Impact on Student Mental Health.” Dristikon a Multidisciplinary Journal, vol. 15, no. 1, 4 Apr. 2025, pp. 41–58, www.researchgate.net/publication/390513190_Internet_Addiction_and_Its_Impact_on_Student_Mental_Health, https://doi.org/10.3126/dristikon.v15i1.77120.
+Chetan Khadka. “Internet Addiction and Its Impact on Student Mental Health.” Dristikon a Multidisciplinary Journal, vol. 15, no. 1, 4 Apr. 2025, pp. 41–58, www.researchgate.net/publication/390513190_Internet_Addiction_and_Its_Impact_on_Student_Mental_Health, https://doi.org/10.3126/dristikon.v15i1.77120.Smith,
+
+Clara Hanson. “Quitting Smoking: 10 Ways to Resist Tobacco Cravings.” The Family Chemist Online Chemist and Doctor, 4 June 2024, www.thefamilychemist.co.uk/quitting-smoking-10-best-ways-to-resist-tobacco-cravings/.
 
 Verma, Shashikant. “Effect of Social Media Addiction on Quality of Life and Digital Stress among University Students.” RESEARCH HUB International Multidisciplinary Research Journal, vol. 12, no. 8, 16 Aug. 2025, pp. 66–75, https://doi.org/10.53573/rhimrj.2025.v12n8.011. Accessed 20 Oct. 2025.
