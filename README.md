@@ -2,13 +2,156 @@
 
 ### Premarily research 
 
-In the current landscape of internet addiction, the most targeted groupe for internet addicition is people who are young adults and teens, or of a higher grade. this is because 90% of people are spending over 5+ hours on the internet, mainly due to acedmic requirements. These internet addictions have adverse sideeffects on people sucha as axenity, depression, loneless, and other mental health effects. It also afffects acdemic work as it leads to the disruption of conctration, time managment, and it leads to procrastanation which hampers performance. 
+In the current landscape of internet addiction, the most targeted groupe for internet addicition is people who are young adults and teens, or of a higher grade. this is because 90% of people are spending over 5+ hours on the internet, mainly due to acedmic requirements. These internet addictions have adverse sideeffects on people sucha as axenity, depression, loneless, and other mental health effects. It also afffects acdemic work as it leads to the disruption of conctration, time managment, and it leads to procrastanation which hampers performance. (Chetan Khadka)
 
 
-According to WHO, is an individual’s perception of their position in life relative to culture, goals, and expectations. Social media addiction negatively affects multiple QoL dimensions including physical health, psychological well-being, social relationships, and environmental satisfaction.
+According to WHO, is an individual’s perception of their position in life relative to culture, goals, and expectations. Social media addiction negatively affects multiple QoL dimensions including physical health, psychological well-being, social relationships, and environmental satisfaction.(Verma)
 
 
+### Comptetive app research
+Guided Meditation and Mindfulness: Headspace.
 
+Core Value: Organized mental health guided by meditation, sleep, and focus aids.
+
+Key Features
+
+Guided meditation library: 1-hour courses and single-session meditation programs are based on various stresses, sleep challenges, confidence, focus, and so on.
+
+Modifiable sessions: Customers select narrator, duration and focus of the session.
+
+Secondary wellness information: Sleepcasts (audio stories), music playlists, motions and mindfulness practices.
+
+Progress monitoring: Measures streaks and minutes meditated.
+
+Social and responsibility elements: Buddies to keep oneself in check and keep each other on track.
+
+Strengths
+
+Onboard with easy learning and guided learning.
+
+General content (sleep, stress, focus, kids meditation).
+
+Evidence-based positive effects on depression, stress, and wellbeing (however, with inconsistency).
+
+Kids and family content increases the market coverage.
+
+Limitations
+
+Extensive use of paid subscription: There is a restriction on free content and access to it may need card upfront.
+
+Too much UI/content clutter to some users. Excessive choices may prove distracting.
+
+Repetitiveness and personalization gaps: Use may find it too repetitive or prefer it to be more personalized.
+
+Poor effectiveness: Self-guided practice is prone to dropout and not all users are equally benefited.
+
+Product insight for your app:
+Provide modular tracks (e.g. starter series - deeper levels), and active customization according to behaviour and feedback, rather than topic tags.
+
+Forest - Virtual forest with Gamified Attention and Productivity.
+
+Core Value: Boost improved concentration and minimized internet addiction through interactive gamification.
+
+Key Features
+
+Focus timer and virtual forest: You plant a tree and it grows as long as you do not get distracted.
+
+Phone-use blocking: The death of the tree = potent behavioural cue.
+
+Data/discoveries: Graphs on trends in focus with a time range.
+
+Rewards & unlocks: Get coins, open cute species, and optional real-tree planting .
+
+Social characteristics: Forest-share and compete with friends.
+
+Strengths
+
+High level of intrinsic motivation: Gamification makes use of the reward psychology to foster concentration.
+
+Cross-platform availability: Both phone and browser extension.
+
+Environmental impact angle: Users will be able to plant real trees - so there is more than just the productivity.
+
+Limitations
+
+Reliance on remaining in the app: The trick does not work in case the users are going around it or failing to do so.
+
+Low level of task complexity: It is primarily a timer, rather than complete task/project management.
+
+Paid features/ extensions: Certain more in-depth features have to be bought (e.g., sync).
+
+Product insight for your app:
+Gamification and reward systems are effective, however, when combined with actual behaviour change (not merely in-game success) retention is higher in the long run. Instead of one timer, think layers of goals - e.g. mini-quests, streaks, insightful feedback etc.
+
+Reflectly AI-powered Journaling and Mood Tracking.
+
+Core Value: Introspective emotional journaling and mood analytics.
+
+Key Features
+
+Prompts based on AI: Customized daily journal questions to eliminate blank-page anxiety.
+
+Mood tracking + trends: Mood history connected to trends over time.
+
+Voice/photo entries: Various methods of note-taking.
+
+Vanish mood graphs: Graphs that are easy to read assist in contemplating emotional data.
+
+Strengths
+
+Easy to use as a journal: Controlled, small bits of prompts assist users with launching.
+
+Synergy between mood and journaling: Mood tracking provides helpful context to mental patterns.
+
+UI is appealing and easy to use: It will encourage a habitual use.
+
+Limitations
+
+Minimal depth: Free versions lack numerous features and backups and exports.
+
+Not so effective with long writing and profound therapy: Guided slots are not always enough with some users.
+
+It is not as ideal with offline/unstructured notes: It requires connectivity or structured prompts.
+
+Personal experience: No community support writing.
+
+Product insight for your app:
+AI triggers work miracles, however, enable free-form space and richer analytics (themes, stuff that is in fashion) at the same time maintaining low entry friction.
+
+Key Learnings on How to Build Your Wellness App.
+
+The strategic gold to be mined out of all three is the following:
+
+Important Features to Add.
+
+Personalized guidance + AI:
+Intelligent prompts and suggestions should be used that advance with the user.
+
+Progress & insight dashboards:
+Habits, mood patterns, visual feedback history of meditation/focus.
+
+Gamified habit building:
+Progress (trees/forests, badges, streaks) requires visual reward.
+
+Multi-modal engagement:
+Bundle mindfulness (quiet), journaling (expressive) and productivity tools.
+
+Social/Community elements:
+Responsibility and team objectives enhance retention in the long run.
+
+Major Pitfalls to Avoid
+
+Too many features at launch:
+Clutters and overwhelm are usually mentioned in Headspace reviews - begin lean.
+
+Putting all of it behind paywalls:
+Freemium is acceptable, though make sure that core value is not charged, decreasing churn.
+
+Unadapted statical content:
+When prompts/meditations become monotonous, the users will be bored very easily.
+
+Absence of actual personalization:
+Not tags, but adaptive sequencing - what did the user react to? how did mood change? what should come next?
 ### User personas
 
 Persona 1: The Burnt-Out High Achiever.
@@ -342,3 +485,10 @@ one technoligy tha would help here is neroulink, as it can moniter the brain's a
 ### Testing log 
 
 [Link to testing videos](https://drive.google.com/drive/folders/1FAbvD7KREDVg7P48K9jk07AlLeB8Yss8?usp=sharing)
+
+
+### Bibliography
+
+Chetan Khadka. “Internet Addiction and Its Impact on Student Mental Health.” Dristikon a Multidisciplinary Journal, vol. 15, no. 1, 4 Apr. 2025, pp. 41–58, www.researchgate.net/publication/390513190_Internet_Addiction_and_Its_Impact_on_Student_Mental_Health, https://doi.org/10.3126/dristikon.v15i1.77120.
+
+Verma, Shashikant. “Effect of Social Media Addiction on Quality of Life and Digital Stress among University Students.” RESEARCH HUB International Multidisciplinary Research Journal, vol. 12, no. 8, 16 Aug. 2025, pp. 66–75, https://doi.org/10.53573/rhimrj.2025.v12n8.011. Accessed 20 Oct. 2025.
