@@ -492,6 +492,7 @@ one technoligy tha would help here is neroulink, as it can moniter the brain's a
 ### Testing log 
 
 [Link to testing videos](https://drive.google.com/drive/folders/1FAbvD7KREDVg7P48K9jk07AlLeB8Yss8?usp=sharing)
+User 3: in the home scereen the track my day button does nothing, and also combine the three tabs of food, habbit an mood into one tab. 
 
 
 ### Bibliography
