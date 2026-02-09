@@ -351,10 +351,9 @@ Digital literacy education
 Premature intervention and counseling.
 Parental and Teacher support.
 
-h
 
-## Empthy maps
-Found in github repo
+
+
 
 
 ## SCAMPER analysis on exsiting fetures
@@ -506,6 +505,8 @@ User 3: in the home scereen the track my day button does nothing, and also combi
 
 
 [Final Prototype link](https://buzz-plant-58044564.figma.site)
+
+[Exploratry walkthrough](https://drive.google.com/file/d/1MCH74yGtyHT_3Eh-OvW6NR1LiswsgmMp/view?usp=sharing)
 
 ### Conclusion
 one technoligy tha would help here is neroulink, as it can moniter the brain's activities and report back tot he app , to then send back actual infromation to the user making the info more personalized. overall the thing that was well recived was the fact that the smooth transitions fin the app make it look like a finctioning app. 
