@@ -483,19 +483,55 @@ Burnout-Bound A High Achiever, Lone Learner.
 
 Included in the repo
 
-## Prototype link
-[Prototype link](https://buzz-plant-58044564.figma.site)
+## Evloution of prototype 
 
-## Helpful extensions
-one technoligy tha would help here is neroulink, as it can moniter the brain's activities and report back tot he app , to then send back actual infromation to the user making the info more personalized
+the orignal idea of mindpatch was to help people beat internet adiction, and it would do tha tthrought ai sugessted methords such as figitung, meditation, and other thing along wit the power of nudjing, and other behaviour techniques
 
-## Testing log 
+[Old app prototype](https://drive.google.com/file/d/1q5Qe7dfOHYopLEQ2TRAh6WinLpcqnLOt/view?usp=sharing)
+
+### Testing log 
 
 [Link to testing videos](https://drive.google.com/drive/folders/1FAbvD7KREDVg7P48K9jk07AlLeB8Yss8?usp=sharing)
 
 
-User 3: in the home scereen the track my day button does nothing, and also combine the three tabs of food, habbit an mood into one tab. 
 
+
+Based on the testing logs here is what each user wanted:
+
+User 1: add reminders to do good thngs, and to also add food tracking as that can affect someone
+
+User 2: condense all the scereens into just two scereens
+
+User 3: in the home scereen the track my day button does nothing, and also combine the three tabs of food, habbit an mood into one tab
+
+
+[Final Prototype link](https://buzz-plant-58044564.figma.site)
+
+### Conclusion
+one technoligy tha would help here is neroulink, as it can moniter the brain's activities and report back tot he app , to then send back actual infromation to the user making the info more personalized. overall the thing that was well recived was the fact that the smooth transitions fin the app make it look like a finctioning app. 
+
+
+## Assets
+
+Before:
+
+contains videos and image s of places to apply feedback
+
+After: 
+
+contains videos and images showing appled feedback
+
+Flowctarts:
+
+contains flowcharts for logic, nd AI
+
+Empthay maps:
+
+contains various enmpthay maps
+
+Prototype images:
+
+cotains the images of the final prototype
 
 ## Bibliography
 
