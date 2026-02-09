@@ -1,6 +1,6 @@
 # 1000190_Arush_warty_SA2_AIY2
 
-### Premarily research 
+## Premarily research 
 
 In the current landscape of internet addiction, the most targeted groupe for internet addicition is people who are young adults and teens, or of a higher grade. this is because 90% of people are spending over 5+ hours on the internet, mainly due to acedmic requirements. These internet addictions have adverse sideeffects on people sucha as axenity, depression, loneless, and other mental health effects. It also afffects acdemic work as it leads to the disruption of conctration, time managment, and it leads to procrastanation which hampers performance. (Chetan Khadka)
 
@@ -8,7 +8,7 @@ In the current landscape of internet addiction, the most targeted groupe for int
 According to WHO, is an individual’s perception of their position in life relative to culture, goals, and expectations. Social media addiction negatively affects multiple QoL dimensions including physical health, psychological well-being, social relationships, and environmental satisfaction.(Verma)
 
 
-### Comptetive app research
+## Comptetive app research
 Guided Meditation and Mindfulness: Headspace.
 
 Core Value: Organized mental health guided by meditation, sleep, and focus aids.
@@ -153,13 +153,13 @@ When prompts/meditations become monotonous, the users will be bored very easily.
 Absence of actual personalization:
 Not tags, but adaptive sequencing - what did the user react to? how did mood change? what should come next?
 
-### Behavior training methords
+## Behavior training methords
 
 * Nudjing: when you give reminders for doing tasks in the day to slowly take bad habbits out of you. Proven example: duolingo, uses nudging to contniously get you to learn the launguage.
 * positive reinforcement: when you aare rewarded for doing somthing good. proven example: videogame progression, gives you ingame rewards to progress in game.
 * Habit loop: repeating an action to stop another action. Proven example: Figit toys, repeating the same action everyday with those toys helps taking out bad habbits such as smoking. (Smith)
 
-### User personas
+## User personas
 
 Persona 1: The Burnt-Out High Achiever.
 
@@ -353,11 +353,11 @@ Parental and Teacher support.
 
 
 
-### Empthy map
+## Empthy maps
 Found in github repo
 
 
-### SCAMPER analysis on exsiting fetures
+## SCAMPER analysis on exsiting fetures
 
 S -- Substitute
 
@@ -479,23 +479,25 @@ Persona Alignment:
 Burnout-Bound A High Achiever, Lone Learner.
 
 
-### Wireframe
+## Wireframe
 
 Included in the repo
 
-### Prototype link
+## Prototype link
 [Prototype link](https://buzz-plant-58044564.figma.site)
 
-### Helpful extensions
+## Helpful extensions
 one technoligy tha would help here is neroulink, as it can moniter the brain's activities and report back tot he app , to then send back actual infromation to the user making the info more personalized
 
-### Testing log 
+## Testing log 
 
 [Link to testing videos](https://drive.google.com/drive/folders/1FAbvD7KREDVg7P48K9jk07AlLeB8Yss8?usp=sharing)
+
+
 User 3: in the home scereen the track my day button does nothing, and also combine the three tabs of food, habbit an mood into one tab. 
 
 
-### Bibliography
+## Bibliography
 
 Chetan Khadka. “Internet Addiction and Its Impact on Student Mental Health.” Dristikon a Multidisciplinary Journal, vol. 15, no. 1, 4 Apr. 2025, pp. 41–58, www.researchgate.net/publication/390513190_Internet_Addiction_and_Its_Impact_on_Student_Mental_Health, https://doi.org/10.3126/dristikon.v15i1.77120.Smith,
 
